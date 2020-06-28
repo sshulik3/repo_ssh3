@@ -1,3 +1,3 @@
 # repo_ssh3
 
-[![Rembox](//market-dev.sshlab.ru/repo/sshulik3-repossh3/badge.svg)](//market-dev.sshlab.ru/assist/new/sshulik3-repossh3)
+[![Rembox](https://rembox.io/community/sshulik3-test_repo2/badge.svg)](https://rembox.io/community/sshulik3-test_repo2/request-assist)
